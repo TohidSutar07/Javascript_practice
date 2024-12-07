@@ -1188,15 +1188,3 @@ if (isloggedin) {
     console.log(sum);
 
    
-
-
-    // JQURY // 
-
-    // 1 //
-
-   $(document).ready(function(){
-        $("button").click(function(){
-            $("this").hide();
-        });
-
-   });
